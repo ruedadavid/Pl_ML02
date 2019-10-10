@@ -5,4 +5,4 @@ David Alonso Rueda Rodríguez
 
 ## Contenido:
 
-(Aplicación de Modelo Lineal con Sckit-Learn)[01_ModeloSpervisado_RegresionLineal.ipynb]
+[Aplicación de Modelo Lineal con Sckit-Learn](01_ModeloSpervisado_RegresionLineal.ipynb)
